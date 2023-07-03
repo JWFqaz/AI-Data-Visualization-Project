@@ -3,7 +3,8 @@ The AI Data Visualization Project which analyze Enron Corporation's accounting f
 
 Here is the finished scatterplot
 
-![image](https://user-images.githubusercontent.com/43610468/140832629-518fdeb6-6109-45fc-9135-ff9c30ecea2f.png)
+![image](https://github.com/JWFqaz/AI-Data-Visualization-Project/assets/43610468/2bbbed74-9523-4081-9e42-d32a44e185ae)
+
 
 
 Model Validation
