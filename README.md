@@ -7,4 +7,5 @@ Here is the finished scatterplot
 
 
 Model Validation
-![image](https://user-images.githubusercontent.com/43610468/140832754-73141aa4-34ad-4e55-b493-65ec54e2249a.png)
+![image](https://github.com/JWFqaz/AI-Data-Visualization-Project/assets/43610468/c12fb00a-7846-44d2-a057-bbe6198ef96e)
+
